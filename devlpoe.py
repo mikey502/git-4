@@ -1,6 +1,6 @@
 import json
 
-data = {'name': 'Alice', 'age': 25}
+data = {revanth': 'female', 'age': 20}
 json_string = json.dumps(data)
 print(json_ending to the )
 
